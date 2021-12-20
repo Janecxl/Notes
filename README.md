@@ -3,6 +3,7 @@
 #### 1   Machine Learning Model 
 
 ##### 1.1   Supervised Learning
+##### [Supervised Learning](https://github.com/Janecxl/Notes/issues/5)
 ##### [Linear Regression](https://github.com/Janecxl/Notes/issues/4)
 <br>
 
