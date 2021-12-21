@@ -5,6 +5,7 @@
 ##### 1.1   Supervised Learning
 ##### [Supervised Learning](https://github.com/Janecxl/Notes/issues/5)
 ##### [Linear Regression](https://github.com/Janecxl/Notes/issues/4)
+##### [Neural Networks](https://github.com/Janecxl/Notes/issues/6)
 <br>
 
 ##### 1.2   Unsupervised Learning
