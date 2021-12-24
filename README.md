@@ -6,7 +6,7 @@
 ##### [Supervised Learning](https://github.com/Janecxl/Notes/issues/5)
 ##### [Linear Regression](https://github.com/Janecxl/Notes/issues/4)
 ##### [Neural Network](https://github.com/Janecxl/Notes/issues/6)
-##### [K-Nearest Neighbors (KNN)](https://github.com/Janecxl/Notes/issues/6)
+##### [K-Nearest Neighbors (KNN)](https://github.com/Janecxl/Notes/issues/7)
 
 <br>
 
