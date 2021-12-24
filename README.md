@@ -5,6 +5,7 @@
 ##### 1.1   Supervised Learning
 ##### [Supervised Learning](https://github.com/Janecxl/Notes/issues/5)
 ##### [Linear Regression](https://github.com/Janecxl/Notes/issues/4)
+##### [Logistic Regression](https://github.com/Janecxl/Notes/issues/8)
 ##### [Neural Network](https://github.com/Janecxl/Notes/issues/6)
 ##### [K-Nearest Neighbors (KNN)](https://github.com/Janecxl/Notes/issues/7)
 
