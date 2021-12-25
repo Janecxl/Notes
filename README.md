@@ -9,6 +9,7 @@
 ##### [Neural Network](https://github.com/Janecxl/Notes/issues/6)
 ##### [K-Nearest Neighbors (KNN)](https://github.com/Janecxl/Notes/issues/7)
 
+
 <br>
 
 ##### 1.2   Unsupervised Learning
@@ -17,8 +18,22 @@
 ##### 1.3   Reinforcement Learning
 <br>
 
-#### 2   Optimization
-##### [Tips for Optimization](https://github.com/Janecxl/Notes/issues/3)
-
+##### 1.4   Feature Transformation and Feature Selection
 <br>
 
+##### 1.5   Regularization
+<br>
+
+##### 1.6   Cross Validation
+<br>
+
+
+#### 2   Optimization
+##### [Tips for Optimization](https://github.com/Janecxl/Notes/issues/3)
+<br>
+
+#### 3   Fixed Income
+<br>
+
+#### 4   Others
+<br>
