@@ -8,7 +8,7 @@
 ##### [Logistic Regression](https://github.com/Janecxl/Notes/issues/8)
 ##### [Neural Network](https://github.com/Janecxl/Notes/issues/6)
 ##### [K-Nearest Neighbors (KNN)](https://github.com/Janecxl/Notes/issues/7)
-
+##### [Decision Trees and Random Forest]
 
 <br>
 
