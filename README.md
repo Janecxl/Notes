@@ -9,16 +9,22 @@
 ##### [Neural Network](https://github.com/Janecxl/Notes/issues/6)
 ##### [K-Nearest Neighbors (KNN)](https://github.com/Janecxl/Notes/issues/7)
 ##### [Decision Trees and Random Forest]
-
+##### [Ensemble Learning]
+##### [Support Vector Machine (SVM)]
+##### [Bayesian Learning]
 <br>
 
 ##### 1.2   Unsupervised Learning
+##### [K-means]
+##### [Principal Component Analysis (PCA)]
+##### [Gaussian Mixture Models and EM Algorithm]
+
 <br>
 
 ##### 1.3   Reinforcement Learning
 <br>
 
-##### 1.4   Feature Transformation and Feature Selection
+##### 1.4   Feature Selection
 <br>
 
 ##### 1.5   Regularization
@@ -30,10 +36,12 @@
 
 #### 2   Optimization
 ##### [Tips for Optimization](https://github.com/Janecxl/Notes/issues/3)
+##### [Randomized Optimization]
 <br>
 
 #### 3   Fixed Income
 <br>
 
 #### 4   Others
+##### [Nelson-Siegel Model]
 <br>
