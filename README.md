@@ -9,7 +9,7 @@
 ##### [Neural Network](https://github.com/Janecxl/Notes/issues/6)
 ##### [K-Nearest Neighbors (KNN)](https://github.com/Janecxl/Notes/issues/7)
 ##### [Decision Trees and Random Forest](https://github.com/Janecxl/Notes/issues/9)
-##### [Ensemble Learning]
+##### [Ensemble Learning](https://github.com/Janecxl/Notes/issues/10)
 ##### [Support Vector Machine (SVM)]
 ##### [Bayesian Learning]
 <br>
