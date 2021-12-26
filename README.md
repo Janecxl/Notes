@@ -8,7 +8,7 @@
 ##### [Logistic Regression](https://github.com/Janecxl/Notes/issues/8)
 ##### [Neural Network](https://github.com/Janecxl/Notes/issues/6)
 ##### [K-Nearest Neighbors (KNN)](https://github.com/Janecxl/Notes/issues/7)
-##### [Decision Trees and Random Forest]
+##### [Decision Trees and Random Forest](https://github.com/Janecxl/Notes/issues/9)
 ##### [Ensemble Learning]
 ##### [Support Vector Machine (SVM)]
 ##### [Bayesian Learning]
