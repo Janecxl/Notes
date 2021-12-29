@@ -17,7 +17,7 @@
 ##### 1.2   Unsupervised Learning
 ##### [Unsupervised Learning](https://github.com/Janecxl/Notes/issues/14)
 ##### [K-means](https://github.com/Janecxl/Notes/issues/13)
-##### [Principal Component Analysis (PCA)]
+##### [Principal Component Analysis (PCA)](https://github.com/Janecxl/Notes/issues/15)
 ##### [Gaussian Mixture Models and EM Algorithm]
 
 <br>
