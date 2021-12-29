@@ -25,11 +25,11 @@
 ##### 1.3   Reinforcement Learning
 <br>
 
-##### 1.4   Feature Selection(https://github.com/Janecxl/Notes/issues/16)
+##### 1.4   [Feature Selection](https://github.com/Janecxl/Notes/issues/16)
 
-##### 1.5   Regularization(https://github.com/Janecxl/Notes/issues/17)
+##### 1.5   [Regularization](https://github.com/Janecxl/Notes/issues/17)
 
-##### 1.6   Cross Validation(https://github.com/Janecxl/Notes/issues/18)
+##### 1.6   [Cross Validation](https://github.com/Janecxl/Notes/issues/18)
 
 
 
