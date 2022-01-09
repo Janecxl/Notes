@@ -39,11 +39,16 @@
 <br>
 
 #### 3   Fixed Income
+[]
 <br>
 
-#### 4   Risk
+#### 4   Portfolio Management
+[Barbell Strategy](https://github.com/Janecxl/Notes/issues/19)
 <br>
 
-#### 5   Others
+#### 5   Risk
+<br>
+
+#### 6   Others
 ##### [Nelson-Siegel Model]
 <br>
